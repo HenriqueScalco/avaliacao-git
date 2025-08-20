@@ -1,7 +1,9 @@
+
+
 const moveBtn = document.getElementById('moveBtn');
 
 // Adiciona um "ouvinte de eventos" que dispara uma função quando o mouse passa por cima
-moveBtn.addEventListener('mouseover', function() {
+/*moveBtn.addEventListener('mouseover', function() {
     // Obtém as dimensões da janela do navegador
     const screenWidth = window.innerWidth;
     const screenHeight = window.innerHeight;
@@ -18,8 +20,7 @@ moveBtn.addEventListener('mouseover', function() {
     // Aplica as novas posições ao estilo do botão
     moveBtn.style.left = `${newLeft}px`;
     moveBtn.style.top = `${newTop}px`;
-});
-
+});*/
 
 // --- Função para o Botão que Adiciona Texto ---
 
@@ -29,7 +30,7 @@ const textContainer = document.getElementById('textContainer');
 let messageCount = 0; // Um contador para numerar as mensagens
 
 // Adiciona um "ouvinte de eventos" que dispara uma função ao ser clicado
-addTextBtn.addEventListener('click', function() {
+/*addTextBtn.addEventListener('click', function() {
     messageCount++; // Incrementa o contador
 
     // Cria um novo elemento de parágrafo (<p>)
@@ -43,4 +44,11 @@ addTextBtn.addEventListener('click', function() {
 
     // Adiciona o novo parágrafo como um "filho" do contêiner de texto
     textContainer.appendChild(newParagraph);
-});
+});*/
+function mostrarNumeros() {
+    for (let i = 1; i <= 5; i++) {
+        console.log(i);
+    }
+}
+
+mostrarNumeros();
