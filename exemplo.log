@@ -1,0 +1,35 @@
+commit f6960980c754fec51fe94ca77362dfedd326e7a8
+Author: Henrique <henriquescalcob@gmail.com>
+Date:   Wed Aug 20 20:14:17 2025 -0300
+
+    Alteração do title para o nome completo
+
+commit ef214e436bcd452c3fe324599007b8e275c11aec
+Author: Henrique <henriquescalcob@gmail.com>
+Date:   Wed Aug 20 20:11:40 2025 -0300
+
+    Comenta funções do JS e adiciona estrutura de repetição
+
+commit a13ae2022ea47958d2026b4afacebcdb627b4816
+Author: Henrique <henriquescalcob@gmail.com>
+Date:   Wed Aug 20 19:49:22 2025 -0300
+
+    Alteração do cor do background da classe conteiner
+
+commit 5bd1832ff13b62d17f3892c97131b794a238357d
+Author: Henrique <henriquescalcob@gmail.com>
+Date:   Wed Aug 20 19:39:18 2025 -0300
+
+    Adiciona conteúdo
+
+commit 36fc7e44c377dae057a0f715e3153f5c0d9271f7
+Author: Henrique <henriquescalcob@gmail.com>
+Date:   Wed Aug 20 19:34:26 2025 -0300
+
+    Adiciona arquivos em branco
+
+commit d6e777150d0bd307eddd3c3338ac06c28b671fd9
+Author: Henrique <henriquescalcob@gmail.com>
+Date:   Wed Aug 20 19:26:22 2025 -0300
+
+    Initial commit
